@@ -3,220 +3,220 @@
 Stotra
 
 
-**1. OM sri Sai Nathaaya namaha
+_**1. OM sri Sai Nathaaya namaha**_
 
-**2. OM Sri Sai Lakshmi naarayanaya namaha
+_**2. OM Sri Sai Lakshmi naarayanaya namaha**_
 
-**3. OM Sri Sai Krishnaraamashiva maruthyaadhi roopaaya namaha
+_**3. OM Sri Sai Krishnaraamashiva maruthyaadhi roopaaya namaha**_
 
-**4. OM Sri Sai Seshasai ne namaha
+_**4. OM Sri Sai Seshasai ne namaha**_
 
-**5. OM Sri Sai Godhavarithata shirdhivasi ne namaha
+_**5. OM Sri Sai Godhavarithata shirdhivasi ne namaha**_
 
-**6. OM Sri Sai Bhakta hrudaalayaaya namaha
+_**6. OM Sri Sai Bhakta hrudaalayaaya namaha**_
 
-****7. OM Sri Sai Sarva hrunnilayaaya namaha
+_**7. OM Sri Sai Sarva hrunnilayaaya namaha**_
 
-**8. OM Sri Sai Bhoota vaasaya namaha
+_**8. OM Sri Sai Bhoota vaasaya namaha**_
 
-**9. OM Sri Sai Bhootha bhavishyadbhaava varnithaaya namaha
+_**9. OM Sri Sai Bhootha bhavishyadbhaava vargithaaya namaha**_
 
-**10. OM Sri Sai Kaalaa thiithaaya namaha
+_**10. OM Sri Sai Kaalaa thiithaaya namaha**_
 
-**11. OM Sri Sai Kaalaaya namaha
+_**11. OM Sri Sai Kaalaaya namaha**_
 
-**12. OM Sri Sai Kaala kaalaaya namaha
+_**12. OM Sri Sai Kaala kaalaaya namaha**_
 
-**13. OM Sri Sai Kaaladarpa damanaaya namaha
+_**13. OM Sri Sai Kaaladarpa damanaaya namaha**_
 
-**14. OM Sri Sai Mrutyunjayaaya namaha
+_**14. OM Sri Sai Mrutyunjayaaya namaha**_
 
-**15. OM Sri Sai Amarthyaaya namaha
+_**15. OM Sri Sai Amarthyaaya namaha**_
 
-**16. OM Sri Sai Marthyaa bhayapradhaaya namaha
+_**16. OM Sri Sai Marthyaa bhayapradhaaya namaha**_
 
-**17. OM Sri Sai Jiivadhaaraaya namaha
+_**17. OM Sri Sai Jiivadhaaraaya namaha**_
 
-**18. OM Sri Sai Sarvadhaaraaya namaha
+_**18. OM Sri Sai Sarvadhaaraaya namaha**_
 
-**19. OM Sri Sai Bhaktaavana samarthaaya namaha
+_**19. OM Sri Sai Bhaktaavana samarthaaya namaha**_
 
-**20. OM Sri Sai Bhaktavana prathikjnaaya namaha
+_**20. OM Sri Sai Bhaktavana prathikjnaaya namaha**_
 
-**21. OM Sri Sai Anna vastra daaya namaha
+_**21. OM Sri Sai Anna vastra daaya namaha**_
 
-**22. OM Sri Sai Aroogya ksheemadaaya namaha
+_**22. OM Sri Sai Aroogya ksheemadaaya namaha**_
 
-**23. OM Sri Sai Dhana maangalyapradaaya namaha
+_**23. OM Sri Sai Dhana maangalyapradaaya namaha**_
 
-**24. OM Sri Sai Buddhi siddhi pradaaya namaha
+_**24. OM Sri Sai Buddhi siddhi pradaaya namaha**_
 
-**25. OM Sri Sai Putra mitra kalathra bandhudaaya namaha
+_**25. OM Sri Sai Putra mitra kalathra bandhudaaya namaha**_
 
-**26. OM Sri Sai Yogaksheema vahaaya namaha
+_**26. OM Sri Sai Yogaksheema vahaaya namaha**_
 
-**27. OM Sri Sai Aapadbhaandhavaaya namaha
+_**27. OM Sri Sai Aapadbhaandhavaaya namaha**_
 
-**28. OM Sri Sai Maargabandhavee namaha
+_**28. OM Sri Sai Maargabandhavee namaha**_
 
-**29. OM Sri Sai Bhukti mukti swargaapavargadaaya namaha
+_**29. OM Sri Sai Bhukti mukti swargaapavargadaaya namaha**_
 
-**30. OM Sri Sai Priyaaya namaha
+_**30. OM Sri Sai Priyaaya namaha**_
 
-**31. OM Sri Sai Preeti vardhanaaya namaha
+_**31. OM Sri Sai Preeti vardhanaaya namaha**_
 
-**32. OM Sri Sai Antharyaminee namaha
+_**32. OM Sri Sai Antharyaminee namaha**_
 
-**33. OM Sri Sai Sacchitatmanee namaha
+_**33. OM Sri Sai Sacchitatmanee namaha**_
 
-**34. OM Sri Sai Nityanandaaya namaha
+_**34. OM Sri Sai Nityanandaaya namaha**_
 
-**35. OM Sri Sai Parama sukhadaaya namaha
+_**35. OM Sri Sai Parama sukhadaaya namaha**_
 
-**36. OM Sri Sai Parameeshwaraaya namaha
+_**36. OM Sri Sai Parameeshwaraaya namaha**_
 
-**37. OM Sri Sai Parabrahmanee namaha
+_**37. OM Sri Sai Parabrahmanee namaha**_
 
-**38. OM Sri Sai Paramaatmanee namaha
+_**38. OM Sri Sai Paramaatmanee namaha**_
 
-**39. OM Sri Sai Gnaana Swaroopinee namaha
+_**39. OM Sri Sai Gnaana Swaroopinee namaha**_
 
-**40. OM Sri Sai Jagath pithre namaha
+_**40. OM Sri Sai Jagath pithre namaha**_
 
-**41. OM Sri Sai Bhaktaanaam maathru daathru pithaamahaaya namaha
+_**41. OM Sri Sai Bhaktaanaam maathru daathru pithaamahaaya namaha**_
 
-**42. OM Sri Sai Bhaktaabhaya pradhaaya namaha
+_**42. OM Sri Sai Bhaktaabhaya pradhaaya namaha**_
 
-**43. OM Sri Sai Bhakta para dheenaya namaha
+_**43. OM Sri Sai Bhakta para dheenaya namaha**_
 
-**44. OM Sri Sai Bhaktaanugraha karaaya namaha
+_**44. OM Sri Sai Bhaktaanugraha karaaya namaha**_
 
-**45. OM Sri Sai Sharaanagatha vatsalaaya namaha
+_**45. OM Sri Sai Sharaanagatha vatsalaaya namaha**_
 
-**46. OM Sri Sai Bhakti shakti pradaaya namaha
+_**46. OM Sri Sai Bhakti shakti pradaaya namaha**_
 
-**47. OM Sri Sai Gnana yraaghya prdaaya namaha
+_**47. OM Sri Sai Gnana yraaghya prdaaya namaha**_
 
-**48. OM Sri Sai Preema pradaaya namaha
+_**48. OM Sri Sai Preema pradaaya namaha**_
 
-**49. OM Sri Sai Samskhaya hrudaya dowurbhalya paapa karma vaasanaa kshayakaraaya namaha
+_**49. OM Sri Sai Samskhaya hrudaya dowurbhalya paapa karma vaasanaa kshayakaraaya namaha**_
 
-**50. OM Sri Sai Hrudayagranthi bheedakaaya namaha
+_**50. OM Sri Sai Hrudayagranthi bheedakaaya namaha**_
 
-**51. OM Sri Sai Karma dhvamsiinee namaha
+_**51. OM Sri Sai Karma dhvamsiinee namaha**_
 
-**52. OM Sri Sai Suddasathva sthithaaya namaha
+_**52. OM Sri Sai Suddasathva sthithaaya namaha**_
 
-**53. OM Sri Sai Gunaatheetha gunaathmanee namaha
+_**53. OM Sri Sai Gunaatheetha gunaathmanee namaha**_
 
-**54. OM Sri Sai Anantha kalyaana gunaaya namaha
+_**54. OM Sri Sai Anantha kalyaana gunaaya namaha**_
 
-**55. OM Sri Sai Amitha parakramaaya namaha
+_**55. OM Sri Sai Amitha parakramaaya namaha**_
 
-**56. OM Sri Sai Jayinee namaha
+_**56. OM Sri Sai Jayinee namaha**_
 
-**57. OM Sri Sai Durdhaarshaa kshobyaaya namaha
+_**57. OM Sri Sai Durdhaarshaa kshobyaaya namaha**_
 
-**58. OM Sri Sai Aparaajitaya namaha
+_**58. OM Sri Sai Aparaajitaya namaha**_
 
-**59. OM Sri Sai Trilookeeshu avighaatha gatayee namaha
+_**59. OM Sri Sai Trilookeeshu avighaatha gatayee namaha**_
 
-**60. OM Sri Sai Ashakya rahitaaya namaha
+_**60. OM Sri Sai Ashakya rahitaaya namaha**_
 
-**61. OM Sri Sai Sarva shakti murthayee namaha
+_**61. OM Sri Sai Sarva shakti murthayee namaha**_
 
-**62. OM Sri Sai Suroopa sundaraaya namaha
+_**62. OM Sri Sai Suroopa sundaraaya namaha**_
 
-**63. OM Sri Sai Suloochanaaya namaha
+_**63. OM Sri Sai Suloochanaaya namaha**_
 
-**64. OM Sri Sai Bahuroopa vishwamuurthayee namaha
+_**64. OM Sri Sai Bahuroopa vishwamuurthayee namaha**_
 
-**65. OM Sri Sai Aroopaavyaktaaya namaha
+_**65. OM Sri Sai Aroopaavyaktaaya namaha**_
 
-**66. OM Sri Sai Aachintyaaya namaha
+_**66. OM Sri Sai Aachintyaaya namaha**_
 
-**67. OM Sri Sai Sookshmaaya namaha
+_**67. OM Sri Sai Sookshmaaya namaha**_
 
-**68. OM Sri Sai Sarvaantharyaminee namaha
+_**68. OM Sri Sai Sarvaantharyaminee namaha**_
 
-**69. OM Sri Sai Manoovaaga theethaya namaha
+_**69. OM Sri Sai Manoovaaga theethaya namaha**_
 
-**70. OM Sri Sai Preemamoorthayee namaha
+_**70. OM Sri Sai Preemamoorthayee namaha**_
 
-**71. OM Sri Sai Sulabha durlabhaaya namaha
+_**71. OM Sri Sai Sulabha durlabhaaya namaha**_
 
-**72. OM Sri Sai Asahaaya sahaayaaya namaha
+_**72. OM Sri Sai Asahaaya sahaayaaya namaha**_
 
-**73. OM Sri Sai Anaatha naatha deenabaandhavee namaha
+_**73. OM Sri Sai Anaatha naatha deenabaandhavee namaha**_
 
-**74. OM Sri Sai Sarvabhaara bhrutee namaha
+_**74. OM Sri Sai Sarvabhaara bhrutee namaha**_
 
-**75. OM Sri Sai Akarmaaneeka karma sukarminee namaha
+_**75. OM Sri Sai Akarmaaneeka karma sukarminee namaha**_
 
-**76. OM Sri Sai Punyasravana keerthanaaya namaha
+_**76. OM Sri Sai Punyasravana keerthanaaya namaha**_
 
-**77. OM Sri Sai Theerthaaya namaha
+_**77. OM Sri Sai Theerthaaya namaha**_
 
-**78. OM Sri Sai Vasudeevaaya namaha
+_**78. OM Sri Sai Vasudeevaaya namaha**_
 
-**79. OM Sri Sai Sataamgathayee namaha
+_**79. OM Sri Sai Sataamgathayee namaha**_
 
-**80. OM Sri Sai Satyanaaraayanaaya namaha
+_**80. OM Sri Sai Satyanaaraayanaaya namaha**_
 
-**81. OM Sri Sai Lokanaathaaya namaha
+_**81. OM Sri Sai Lokanaathaaya namaha**_
 
-**82. OM Sri Sai Paavananaaghaaya namaha
+_**82. OM Sri Sai Paavananaaghaaya namaha**_
 
-**83. OM Sri Sai Amruthamsavee namaha
+_**83. OM Sri Sai Amruthamsavee namaha**_
 
-**84. OM Sri Sai Bhaaskara Prabhaaya namaha
+_**84. OM Sri Sai Bhaaskara Prabhaaya namaha**_
 
-**85. OM Sri Sai Bramhacharya tapascharyaadi suvrathaaya namaha
+_**85. OM Sri Sai Bramhacharya tapascharyaadi suvrathaaya namaha**_
 
-**86. OM Sri Sai Satyadharma paraayanaaya namaha
+_**86. OM Sri Sai Satyadharma paraayanaaya namaha**_
 
-**87. OM Sri Sai Siddheshvaraaya namaha
+_**87. OM Sri Sai Siddheshvaraaya namaha**_
 
-**88. OM Sri Sai Siddha sankalpaaya namaha
+_**88. OM Sri Sai Siddha sankalpaaya namaha**_
 
-**89.OM Sri Sai Yogeshwaraaya namaha
+_**89.OM Sri Sai Yogeshwaraaya namaha**_
 
-**90. OM Sri Sai Bhagwatee namaha
+_**90. OM Sri Sai Bhagwatee namaha**_
 
-**91. OM Sri Sai Bhakta vatsalaaya namaha
+_**91. OM Sri Sai Bhakta vatsalaaya namaha**_
 
-**92. OM Sri Sai Sathpurushaaya namaha
+_**92. OM Sri Sai Sathpurushaaya namaha**_
 
-**93. OM Sri Sai Purushootthamaaya namaha
+_**93. OM Sri Sai Purushootthamaaya namaha**_
 
-**94. OM Sri Sai Satyatatva boodhakaaya namaha
+_**94. OM Sri Sai Satyatatva boodhakaaya namaha**_
 
-**95. OM Sri Sai Kaamaadi shadyri dwamsinee namaha
+_**95. OM Sri Sai Kaamaadi shadyri dwamsinee namaha**_
 
-**96. OM Sri Sai Abheedaanandaama bhava pradhaaya namaha
+_**96. OM Sri Sai Abheedaanandaama bhava pradhaaya namaha**_
 
-**97. OM Sri Sai Samasarvamatha sammataaya namaha
+_**97. OM Sri Sai Samasarvamatha sammataaya namaha**_
 
-**98. OM Sri Sai Sri Dakshinaa moorthiyee namaha
+_**98. OM Sri Sai Sri Dakshinaa moorthiyee namaha**_
 
-**99. OM Sri Sai Sri Venkateesha ramanaaya namaha
+_**99. OM Sri Sai Sri Venkateesha ramanaaya namaha**_
 
-**100. OM Sri Sai Adbhuthaanantha charyaaya namaha
+_**100. OM Sri Sai Adbhuthaanantha charyaaya namaha**_
 
-**101. OM Sri Sai Prapannarthi haraaya namaha
+_**101. OM Sri Sai Prapannarthi haraaya namaha**_
 
-**102. OM Sri Sai Samsaara sarva dukha kshayakaraaya namaha
+_**102. OM Sri Sai Samsaara sarva dukha kshayakaraaya namaha**_
 
-**103. OM Sri Sai Sarva vitsarvato mukhaaya namaha
+_**103. OM Sri Sai Sarva vitsarvato mukhaaya namaha**_
 
-**104. OM Sri Sai Sarvaantharbhahi stitaaya namaha
+_**104. OM Sri Sai Sarvaantharbhahi stitaaya namaha**_
 
-**105. OM Sri Sai Sarvamangala karaaya namaha
+_**105. OM Sri Sai Sarvamangala karaaya namaha**_
 
-**106. OM Sri Sai Sarvaabhiishta pradhaaya namaha
+_**106. OM Sri Sai Sarvaabhiishta pradhaaya namaha**_
 
-**107. OM Sri Sai Samaras sanmaarga sthaapanaaya namaha
+_**107. OM Sri Sai Samaras sanmaarga sthaapanaaya namaha**_
 
-**108. OM Sri Sai samartha sadguru Sri Sai nathaaya namaha
+_**108. OM Sri Sai samartha sadguru Sri Sai nathaaya namaha**_
 
 ### Shridi Sai Sharanam
