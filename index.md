@@ -1,9 +1,4 @@
-<p align="center">
-
-<img  src="nav-bg.gif" alt="Om logo">
-
-</p>
-  
+<p align="center"><img  src="nav-bg.gif" alt="Om logo"></p>
 
 ![](nav-bg.gif)
 Stotra
