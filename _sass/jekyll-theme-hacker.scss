@@ -72,9 +72,9 @@ header h1 {
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
+  text-align: center;  // added
   @include media-max-width($container-max-width) {
-    margin-left: 0;
-    text-align: center;  // added
+    margin-left: 0;    
   }
 }
 
@@ -89,6 +89,7 @@ header h2 {
   font-weight: 300;
   color:  #ff24c1;
 //  color: #666;
+  text-align: center;  // added
 }
 
 #downloads .btn {
