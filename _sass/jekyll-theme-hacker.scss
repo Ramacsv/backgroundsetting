@@ -74,6 +74,7 @@ header h1 {
   -webkit-font-smoothing: antialiased;
   @include media-max-width($container-max-width) {
     margin-left: 0;
+    text-align: center;  // added
   }
 }
 
