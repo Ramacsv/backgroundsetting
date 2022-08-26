@@ -1,7 +1,9 @@
+![OM](nav-bg.gif)
 <!--  -->
 
 Stotra
 
+![](nav-bg.gif)
 
 _**1. OM sri Sai Nathaaya namaha**_
 
