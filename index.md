@@ -1,9 +1,12 @@
-![OM](nav-bg.gif)
-<!--  -->
+<p align="center">
 
-Stotra
+<img  src="nav-bg.gif" alt="Om logo">
+
+</p>
+  
 
 ![](nav-bg.gif)
+Stotra
 
 _**1. OM sri Sai Nathaaya namaha**_
 
