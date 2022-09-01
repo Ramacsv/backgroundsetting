@@ -18,7 +18,8 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
+ //background: $body-background url("../images/bkg.png") 0 0; //original
+  background: $body-background url("../images/bkgA.png") 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -58,7 +59,8 @@ header {
 //  border-bottom: 1px dashed $conifer; //header;
   border-bottom: 2px ridge #0000ff; 
   padding: 20px 0;
-  margin: 0 0 40px 0;
+//  margin: 0 0 40px 0; //original
+  margin: 0 0 30px 0;
 }
 
 header h1 {
