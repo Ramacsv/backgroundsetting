@@ -21,7 +21,8 @@ body {
  //background: $body-background url("../images/bkg.png") 0 0; //original
 // background: $body-background url("../images/bkgAAA.svg") 0 0; 
 //  background: $body-background url("../images/bkgAAA.svg") 0 0, linear-gradient(135deg, #6ec575 0, #3b8686 100%);
-   background:  linear-gradient(135deg, #6ec575 0, #3b8686 100%), url("../images/bkgAAA.svg") 0 0 ;
+//   background:  linear-gradient(135deg, #6ec575 0, #3b8686 100%), url("../images/bkgAAA.svg") 0 0 ;
+  background:  url("../images/bkgAAA.svg") 0 0, linear-gradient(135deg, #6ec575 0, #3b8686 100%) ;
   //violet flowers url("../images/rosesEXp.svg") 0 0 no-repeat,
 // background:   url("../images/rosesEXp.svg") 10px 20px/50px 50px no-repeat, url("../images/bkgA .png") 0 0;
   color: $body-foreground;
