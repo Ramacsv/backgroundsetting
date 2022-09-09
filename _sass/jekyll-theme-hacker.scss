@@ -19,8 +19,8 @@ body {
   margin: 0;
   padding: 0;
  //background: $body-background url("../images/bkg.png") 0 0; //original
-// background: $body-background url("../images/bkgAA.svg") 0 0; //violet flowers url("../images/rosesEXp.svg") 0 0 no-repeat,
- background:   url("../images/rosesEXp.svg") 10px 20px/50px 50px no-repeat, url("../images/bkgA .png") 0 0;
+ background: $body-background url("../images/violetbkg.svg") 0 0; //violet flowers url("../images/rosesEXp.svg") 0 0 no-repeat,
+// background:   url("../images/rosesEXp.svg") 10px 20px/50px 50px no-repeat, url("../images/bkgA .png") 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
